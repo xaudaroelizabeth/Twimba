@@ -43,15 +43,12 @@ It also saves data in the browser so your posts don’t disappear when you refre
 
 ---
 
-## 📁 Project Structure
+## ⚖️ License
 
-```text
-project/
-│
-├── index.html
-├── index.css
-├── index.js
-├── data.js
-├── images/
-│   └── scrimbalogo.png
-└── README.md
+This project is for portfolio and learning purposes only.
+
+---
+
+## 👨‍💻 Author
+
+Made with 💙 while learning JavaScript
